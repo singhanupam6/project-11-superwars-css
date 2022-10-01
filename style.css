@@ -1,4 +1,61 @@
+#parent{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-gap:50px;
+}
+#spiderman{
+  border: 2px solid gray;
+  margin: 10px;
+  margin-left: 200px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+#wonderwomen{
+  border: 2px solid gray;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+#superman{
+  margin: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 2px;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+}
+#captainamerica{
+  border: 2px solid gray;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+#gemwomen{
+  border: 2px solid gray;
+  margin: 10px;
+  margin-right: 200px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
 .footer{
-  margin-left : 80px;
-  font-size : 18px;
+  margin-left : 10px;
+  font-size : 15px;
+  padding-top: 50px;
 }
